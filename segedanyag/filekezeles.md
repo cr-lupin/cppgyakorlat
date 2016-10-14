@@ -4,7 +4,7 @@ Fájlkezelés
 ```cpp
 #include <fstream>
 
-std::istream ifs("input.txt"); // megnyitjuk olvasásra
+std::ifstream ifs("input.txt"); // megnyitjuk olvasásra
 std::ofstream ofs("output.txt"); // megnyitjuk írásra
 
 int x;
