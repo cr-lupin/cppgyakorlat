@@ -11,4 +11,4 @@ A beolvasáshoz: ha az órán tanult módszerrel olvassátok be, akkor a fájlba
 
 A program a futás során bármit írhat a képernyőre (pl. a közbülső állapotokat), csak az lenne a kérésem, hogy a kimenet.txt-be csak a végállapot kerüljön.
 
-Mátrix kezeléshez segédanyag itt található: (link)[cppgyakorlat/segedanyag/matrix.md]
+Mátrix kezeléshez segédanyag itt található: [link](cppgyakorlat/segedanyag/matrix.md)
