@@ -1,4 +1,4 @@
-Map<key_t, value_t>
+`Map<key_t, value_t>`
 =====================
 
 ```cpp
@@ -63,7 +63,7 @@ Példa a map elemeinek kiíratására
 ```cpp
 for (std::map<std::string, int>::iterator it = honap.begin(); it != honap.end(); ++it) 
 {
-  std::cout << "kulcs: " << (*it).first << " ertek: " << (*it).first << std::endl;
+  std::cout << "kulcs: " << (*it).first << " ertek: " << (*it).second << std::endl;
 }
 ```
 
@@ -73,7 +73,7 @@ Az értékek elérését a pointereknél is használt egyszerűbb formában is m
 ```cpp
 for (std::map<std::string, int>::iterator it = honap.begin(); it != honap.end(); ++it) 
 {
-  std::cout << "kulcs: " << it->first << " ertek: " << it->first << std::endl;
+  std::cout << "kulcs: " << it->first << " ertek: " << it->second << std::endl;
 }
 ```
 
