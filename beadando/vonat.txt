@@ -1,0 +1,11 @@
+TISZAVIRAG-IC Budapest-Nyugati Zuglo Kobanya-Kispest Ferihegy Cegled Nagykoros Kecskemet Kiskunfelegyhaza Kistelek Szatymaz Szeged
+S50 Budapest-Nyugati Zuglo Kobanya-also Kobanya-Kispest Pestszentlorinc Szemeretelep Ferihegy Vecses Vecses-Kertekalja Ullo Hosszuberek-Peteri Monor
+Z50 Budapest-Nyugati Zuglo Kobanya-also Kobanya-Kispest Ferihegy Monor Monorierdo Pilis Albertirsa Cegledbercel Cegledbercel-Csero Budai-ut Cegled
+S36 Kobanya-Kispest Ferencvaros Kelenfold Albertfalva Budafok Kastelypark Tetenyliget Erd-also Tarnok
+6214 Cegled Adony Szolnok Szajol Torokszentmiklos Fegyvernek-Ormenyes Kisujszallas
+Z30 Szekesfehervar Dinnyes Agard Gardony Velencefurdo Velence Kapolnasnyek Pettend Baracska Martonvasar Tarnok Erd-also Kelenfold Budapest-Deli
+G43 Szekesfehervar Agard Gardony Velence Kapolnasnyek Baracska Martonvasar Tarnok Erd-felso Barosstelep Budateteny Budafok Kelenfold Ferencvaros Kobanya-Kispest
+S220 Szolnok Toszeg Tiszakecske Lakitelek Szikra Nyarlorinc Kecskemet
+7234 Szolnok Szajol Tiszatenyo Kengyel Bagimajor Martfu Tiszafoldvar Homok Kunfalu Kunszentmarton Nagytoke Heked Szentes
+32612 Kiskunfelegyhaza Gater Kettoshalom Csongrad Heked Szentes Szegvar Koroszentgyorgy Mindszent Martely Hodmezovasarhely
+17707 Bekescsaba Telekgerendas Csorvas Oroshaza Hodmezovasarhely Algyo Szeged-Rokus Szeged
