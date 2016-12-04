@@ -5,6 +5,7 @@ Második beadandó, utazástervezés
 A vonatok.txt tartalmazza a vonatok útvonalát az alábbo módon:
 - Minden sor egy vonathoz tartalmaz információt.
 - A sor elején a vonat neve található, majd utána white-space-ekkel elválasztva az állomások, ahol megáll
+- A vonat visszafelé irányban is ugyanezeken az állomásokon áll meg
 - Egy sor tetszőlegesen sok állomásnevet, a fájl pedig tetszőleges számú sort tartalmazhat
 - Az egyszerűség kedvéért a fájlban ékezetek nélük szerepelnek az állomásnevek
 
