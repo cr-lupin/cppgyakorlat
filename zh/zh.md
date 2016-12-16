@@ -8,3 +8,6 @@ elég csak az értintett mezők összegét megjeleníteni.
 
 A program bemenete egy [input.txt](https://github.com/cr-lupin/cppgyakorlat/blob/master/zh/input.txt) fájl.
 Az első két szám benne a mátrix dimenziói, utána pedig a mátrix elemei következnek sorfolytonosan.
+
+
+(A feladat az [itt](https://projecteuler.net/problem=81) található fordítása.)
