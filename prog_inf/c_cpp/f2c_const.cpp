@@ -1,8 +1,8 @@
 #include <iostream>
 
-const L = 0;
-const H = 200;
-const LOOP = 20;
+const int L = 0;
+const int H = 200;
+const int LOOP = 20;
 
 int main() {
 	for (int i = L; i < H; i += LOOP) {
